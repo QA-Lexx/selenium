@@ -56,4 +56,3 @@ class CallbackTest {
         assertEquals("Ваша заявка успешно отправлена!", text.trim());
     }
 }
-
